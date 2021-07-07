@@ -1,3 +1,16 @@
 #topic {
-    color: aqua;
+    color:goldenrod;
   }  
+  h2{
+      color: indigo;
+      font-style: italic;
+  }
+  p{
+      color: goldenrod;
+  }
+  body {
+      background-color: tomato;
+  }
+  ul{
+      color: gray;
+  }
