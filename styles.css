@@ -1,16 +1,20 @@
 #topic {
     color:goldenrod;
+    text-align: center;
   }  
   h2{
       color: indigo;
       font-style: italic;
+      text-align: center;
   }
   p{
       color: goldenrod;
   }
   body {
       background-color: tomato;
+      font-family: Arial, Helvetica, sans-serif;
   }
   ul{
       color: gray;
+      font-family: Arial, Helvetica, sans-serif;
   }
