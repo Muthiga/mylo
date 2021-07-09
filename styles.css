@@ -21,7 +21,34 @@
   .unimportant{
       color: royalblue;
   }
+  .img{
+      float: right;
+  }
   .important{
+      width: 50%;
+      float: left;
+      background-color:teal;
       font-style: italic;
   }
-  
+  #facts{
+      
+      width: 35%;
+  }
+  #mylo{
+      width: 50% ;
+  }
+  .prof{
+      color: indigo;
+    font-style: italic;
+    text-align: left;
+}
+.import{
+  font-style: italic;
+}
+#file{
+    width: 600px;
+}
+.type{
+    width: 500px;
+    float: inline-start;
+}
